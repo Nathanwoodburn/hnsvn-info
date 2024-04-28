@@ -1,7 +1,5 @@
 # 0xDeAd
 
-6/10
-
 Email
 
 Features:
@@ -13,7 +11,7 @@ Features:
 - Webmail using roundcube
   - Allows for customizing encryption (eg. only sign and not encrypt)
   - Allows setting your PGP
-- Social network
+- Social network (https://misskey-hub.net/en/docs/about-misskey/)
   - Invite only?
   - Federated
   - Allows sending to federated server on a handshake domain
